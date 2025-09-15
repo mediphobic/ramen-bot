@@ -20,4 +20,5 @@ client.on('messageCreate', (message) => {
   }
 });
 
+//sdad
 client.login(process.env.TOKEN);
